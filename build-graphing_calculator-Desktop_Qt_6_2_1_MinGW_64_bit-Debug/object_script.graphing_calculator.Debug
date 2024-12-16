@@ -1,0 +1,16 @@
+debug/main.o
+debug/animate.o
+debug/coordtranslation.o
+debug/function.o
+debug/graph.o
+debug/graphinfo.o
+debug/input.o
+debug/number.o
+debug/operator.o
+debug/plot.o
+debug/random.o
+debug/rpn.o
+debug/shuntingyard.o
+debug/sidebar.o
+debug/system.o
+debug/token.o

@@ -1,0 +1,16 @@
+release/main.o
+release/animate.o
+release/coordtranslation.o
+release/function.o
+release/graph.o
+release/graphinfo.o
+release/input.o
+release/number.o
+release/operator.o
+release/plot.o
+release/random.o
+release/rpn.o
+release/shuntingyard.o
+release/sidebar.o
+release/system.o
+release/token.o

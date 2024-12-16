@@ -1,0 +1,24 @@
+tan x
+sin x
+cos x
+cot x
+csc x
+sec x
+abs x
+e ^ x
+x
+x ^ 2
+x ^ 3
+x / 2 * ( cos ( 5 * x ^ 2 ) )
+tan ( 1 / x ^ 2 )
+sin ( x * cos ( 50 * x ) )
+cos ( x * cos ( 45 * x ) )
+tan ( 1.5 * x * cos ( 30 * x ) )
+x * sec ( 290 * e ^ x )
+ sin x
+ tan x
+ x ^ 2
+ sin x
+ tan x
+ x ^  6
+ ( sin x ) ^ 2 + ( 1 / tan x )
